@@ -3,6 +3,6 @@ I am a mechatronic engineer and have good hands on experiience with different de
 
 
 ## Skills and Experience
-* 
+* icons/Arduino.svg
 
 
