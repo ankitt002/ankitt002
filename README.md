@@ -5,6 +5,6 @@ I am a mechatronic engineer and have good hands on experiience with different de
   * Aiming to create more useful projects and share them.
 
 ## 💻My Skills
-[![My Skills](https://skillicons.dev/icons?i=arduino,c,autocad,raspberrypi,vscode,matlab,iot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,autocad,raspberrypi,vscode,matlab,easyeda)](https://skillicons.dev)
 
 
